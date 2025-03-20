@@ -22,9 +22,9 @@ A minimal static website that displays a collection of recipes. The main index p
 /simple-recipes
 │── index.html  # Main page with recipe links
 │── /recipes    # Folder containing individual recipe pages
-│   ├── recipe1.html
-│   ├── recipe2.html
-│   ├── recipe3.html
+│   ├── lasagna.html
+│   ├── dosa.html
+│   ├── aloo masala.html
 ```
 
 ## Usage
