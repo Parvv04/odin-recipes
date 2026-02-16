@@ -2,10 +2,10 @@
 
 A minimal static website that displays a collection of recipes. The main index page contains links to individual recipe pages.
 
-#Demo: 
+## Demo: 
 
-Live Link: https://parvv04.github.io/odin-recipes/
-Screenshots:
+- Live Link: https://parvv04.github.io/odin-recipes/
+- Screenshots:
 <img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/4993c307-4c87-4b40-b0a7-a343c8ed1484" />
 
 <img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/a18d81bd-60b3-409d-9852-873b05adcd53" />
