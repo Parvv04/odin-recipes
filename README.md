@@ -2,6 +2,14 @@
 
 A minimal static website that displays a collection of recipes. The main index page contains links to individual recipe pages.
 
+#Demo: 
+
+Live Link: https://parvv04.github.io/odin-recipes/
+Screenshots:
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/4993c307-4c87-4b40-b0a7-a343c8ed1484" />
+
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/a18d81bd-60b3-409d-9852-873b05adcd53" />
+
 ## Features
 - A clean and simple homepage with recipe links.
 - Easy-to-follow HTML structure.
@@ -9,6 +17,10 @@ A minimal static website that displays a collection of recipes. The main index p
 
 ## Technologies Used
 - HTML
+
+## What I Learned: 
+- Basic HTML semantics
+
 
 ## Installation
 1. Clone this repository:
@@ -25,24 +37,9 @@ A minimal static website that displays a collection of recipes. The main index p
 │   ├── lasagna.html
 │   ├── dosa.html
 │   ├── aloo masala.html
+
 ```
 
-## Usage
-1. Open `index.html` to see a list of recipes.
-2. Click on any recipe to view detailed instructions.
-
-## Contribution
-If you’d like to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b new-feature`).
-3. Make your changes and commit (`git commit -m "Add new recipe"`).
-4. Push to your branch (`git push origin new-feature`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions, feel free to reach out:
-- Email: parvathi.pratap.h@gmail.com
-- GitHub: [Parvv04](https://github.com/Parvv)
+## Future Improvements
+- Add better UI/UX
+- Let users add new recipes
